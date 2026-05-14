@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "blog": "Blog",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Ancient Wisdom for Modern Life",
+      "subtitle": "Discover the profound teachings of Chinese metaphysics — I Ching divination, blessed talismans, and sacred rituals to guide your path.",
+      "cta": "Explore Our Services"
+    },
+    "services": {
+      "title": "What We Offer",
+      "divination": {
+        "title": "I Ching Divination",
+        "desc": "Ancient oracle wisdom to illuminate your questions about life, career, relationships, and destiny."
+      },
+      "talisman": {
+        "title": "Blessed Items & Talismans",
+        "desc": "Sacred objects infused with positive energy — customized for your needs or selected from our curated collection."
+      },
+      "ritual": {
+        "title": "Ritual Services",
+        "desc": "Traditional ceremonies performed by experienced masters to bring harmony, prosperity, and spiritual protection."
+      }
+    },
+    "philosophy": {
+      "title": "The Way of Harmony",
+      "desc": "Rooted in thousands of years of Chinese philosophical tradition, we believe in the balance of Yin and Yang, the wisdom of the I Ching, and the power of aligned intention. Our mission is to share this cultural heritage with the world."
+    },
+    "blog": {
+      "title": "Latest Insights",
+      "readMore": "Read More"
+    },
+    "footer": {
+      "cta": "Begin Your Journey",
+      "desc": "Reach out to us for guidance, questions, or to schedule a consultation."
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Explore the depth of Chinese metaphysical traditions",
+    "intro": {
+      "title": "Who We Are",
+      "desc": "We are dedicated practitioners and teachers of traditional Chinese metaphysics, committed to sharing the profound wisdom of this ancient culture with the world. Whether you are seeking guidance, protection, or a deeper understanding of the forces that shape your life — we are here to help."
+    },
+    "iching": {
+      "title": "I Ching — The Book of Changes",
+      "desc": "The I Ching is one of the oldest and most revered Chinese classics. Through the casting of hexagrams, it reveals the patterns of change and offers guidance on questions of all kinds.",
+      "questions": "Questions we can help with:",
+      "q1": "Career and business decisions",
+      "q2": "Relationships and personal growth",
+      "q3": "Life direction and purpose",
+      "q4": "Timing of important events",
+      "q5": "Health and well-being",
+      "contactPrompt": "Ready to seek guidance? Contact us to schedule a reading."
+    },
+    "talisman": {
+      "title": "Blessed Items & Custom Talismans",
+      "desc": "Sacred items empowered through traditional rituals to bring protection, prosperity, and positive energy into your life.",
+      "custom": "Send us your personal items for a custom blessing ritual",
+      "shop": "Browse our curated collection of pre-blessed items",
+      "types": "Types of blessings available:",
+      "b1": "Protection and warding",
+      "b2": "Wealth and prosperity",
+      "b3": "Love and relationships",
+      "b4": "Academic and career success",
+      "b5": "Health and healing"
+    },
+    "ritual": {
+      "title": "Ritual Ceremonies",
+      "desc": "Traditional Taoist and Buddhist-inspired ceremonies performed according to ancient protocols, tailored to your specific needs and circumstances.",
+      "contactPrompt": "Contact us to discuss which ceremony best suits your needs."
+    },
+    "cta": "Contact Us"
+  },
+  "blog": {
+    "title": "Blog & Daily Tips",
+    "subtitle": "Wisdom for everyday life",
+    "readMore": "Read Full Article",
+    "backToBlog": "Back to Blog",
+    "noPosts": "No articles yet. Check back soon!",
+    "tips": "Daily Tips",
+    "articles": "Articles"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Bridging ancient wisdom and the modern world",
+    "mission": {
+      "title": "Our Mission",
+      "desc": "We believe that the timeless wisdom of Chinese metaphysics has the power to transform lives. Our mission is to make this cultural heritage accessible to people around the world — regardless of background or belief."
+    },
+    "philosophy": {
+      "title": "Our Philosophy",
+      "desc": "At the heart of Chinese metaphysics lies the understanding that all things are connected. The I Ching teaches us to flow with change rather than resist it. The balance of Yin and Yang reveals that harmony comes from embracing opposites. Through rituals and blessings, we align ourselves with the natural forces of the universe."
+    },
+    "culture": {
+      "title": "What is Chinese Metaphysics?",
+      "desc": "Chinese metaphysics (玄学) encompasses a rich system of philosophical and practical traditions including I Ching (易经), Feng Shui (风水), Ba Zi (八字), and spiritual rituals. These practices have been refined over thousands of years and continue to offer profound insights for those seeking guidance and harmony in their lives."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We look forward to hearing from you",
+    "comingSoon": "Contact form coming soon. In the meantime, reach us at:",
+    "email": "Email",
+    "response": "We typically respond within 24 hours."
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "tagline": "Ancient Wisdom · Modern Life"
+  },
+  "common": {
+    "loading": "Loading...",
+    "language": "Language"
+  }
+}
